@@ -15,15 +15,20 @@
 </div>
 <p align="justify">The purpose of this repository is to give you an idea about the landscape and it also will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy.</p>
     
-<div align="lefth">    
-    <h1>[Table of Contents]</h1>
+<div align="center">    
+    <h1>Table of Contents</h1>
+<table>
+  <tr>
+      <td align="center"><a href=""><img src="https://cdn2.iconfinder.com/data/icons/education-378/96/Book-512.png" width="70px;" height="75px;" alt=""><br><b>Books</b></a></td>
+      <td align="center"><a href=""><img src="https://image.flaticon.com/icons/png/512/42/42972.png" width="70px;" height="75px;" alt=""><br><b>Courses</b></a></td>
+      <td align="center"><a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/OOjs_UI_icon_articles-ltr.svg/1024px-OOjs_UI_icon_articles-ltr.svg.png" width="70px;" height="75px;" alt=""><br><b>Articles</b></a></td>
+            <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/2991/2991106.png" width="70px;" height="75px;" alt=""><br><b>Wiki/Docs</b></a></td>
+      <td align="center"><a href=""><img src="https://rdihub.b-cdn.net/wp-content/uploads/2020/01/104-1044961_calendar-icon-png-date-events-icon-white-png.png" width="70px;" height="75px;" alt="https://static.thenounproject.com/png/2161804-200.png"><br><b>Events</b></a></td>
+      <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/152/152810.png" width="70px;" height="75px;" alt=""><br><b>Channels</b></a></td>
+      <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/1384/1384019.png" width="70px;" height="75px;" alt=""><br><b>Community</b></a></td>
+      <td align="center"><a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgVvmCmKP-iLNIBdSKqa_w50er81_DrqL9l1H2z7uZ-YOuHK2oWmzt6Zxun_qTyWOVg4&usqp=CAU" width="70px;" height="75px;" alt=""><br><b>Platforms</b></a></td>
+  </tr>
 </div>
 
-- [Platforms](#)
-- [Docs](#)
-- [Books](#)
-- [Community](#)
-- [Articles](#)
-- [Courses](#)
-- [Events](#)
-- [Channels](#)
+
+
