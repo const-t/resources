@@ -38,8 +38,8 @@
 | Title (C Books)               | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [The C Programming Language](https://www.amazon.com/-/es/Brian-W-Kernighan/dp/0131103628)  | Complete guide to ANSI standard C language programming |
-| [C: A Reference Manual](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)    | Description, run-time libraries and a style of C        |
-| [Practical C Programming](https://www.amazon.com/Essential-Device-Drivers-Sreekrishnan-Venkateswaran/dp/0132396556) | No-nonsense, practical approach to learn C       |
+| [C: A Reference Manual](https://www.amazon.com/-/es/Samuel-Harbison/dp/013089592X)    | Description, run-time libraries and a style of C        |
+| [Practical C Programming](https://www.amazon.com/-/es/Steve-Oualline/dp/1565923065) | No-nonsense, practical approach to learn C       |
 | [Expert C Programming: Deep C Secrets ](https://www.amazon.com/-/es/Peter-van-Linden/dp/0131774298)  | C advanced tips and tricks |
 
 | Title (Kernel Books)               | Description                                                        |
