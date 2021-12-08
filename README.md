@@ -64,9 +64,17 @@
 <div align="center">
         <h1>Community</h1>
 </div>
+
 <div align="center">
         <h1>Plataforms</h1>
 </div>
+
+| Title                               | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Kernel newbies](https://kernelnewbies.org/)           | General site for people getting started developing on the Linux kernel |
+| [Linux Foundation ](https://www.linuxfoundation.org/)  | Linux foundation official site                                         |
+| [Linux(org)](https://www.linux.org/)                   | An excellent starting place for all things linux                       | 
+| [Linux(com)](https://www.linux.com/)                   |  Linux community portal sponsored by the Linux Foundation              |
 
 
 
