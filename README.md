@@ -34,6 +34,18 @@
 <div align="center">
         <h1>Books</h1>
 </div>
+
+| Title                               | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Linux Kernel Development](https://www.amazon.com/-/es/Robert-Love/dp/0672329468as)  | Good introduction to Linux kernel development                   |
+| [Linux Device Drivers](https://www.amazon.com/-/es/Jonathan-Corbet/dp/0596005903)    | Great book for getting started with Linux device drivers        |
+| [Essential Linux Device Drivers](https://www.amazon.com/Essential-Device-Drivers-Sreekrishnan-Venkateswaran/dp/0132396556) | Introduction to driver development for major subsystems         |
+| [Professional Linux Kernel Architecture ](https://www.amazon.com/-/es/Wolfgang-Mauerer/dp/0470343435)  | Introduction to the architecture, concepts and algorithms of the Linux kernel |
+| [Understanding the Linux Kernel](https://www.amazon.com/-/es/Daniel-P-Bovet/dp/8184040830)  | Guided tour of the code that forms the core of all Linux operating systems |
+| [Linux Kernel in a Nutshell](https://www.amazon.com/Linux-Kernel-Nutshell-Desktop-Reference/dp/0596100795) | Overview of kernel configuration and building    |
+
+
+
 <div align="center">
         <h1>Courses</h1>
 </div>
