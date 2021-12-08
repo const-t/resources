@@ -52,7 +52,7 @@
 | [Understanding the Linux Kernel](https://www.amazon.com/-/es/Daniel-P-Bovet/dp/8184040830)  | Guided tour of the code that forms the core of all Linux operating systems |
 | [How Linux Works](https://www.amazon.com/-/es/Brian-Ward/dp/1593275676)  | Learn system boots, how networking works, and what the kernel actually does |
 | [Linux System Programming](https://www.amazon.com/-/es/Robert-Love/dp/1449339530)  |  Linux system programming, a reference manual on Linux system calls, and an insider’s guide to writing smarter, faster code. |
-| [The Linux Programming Interface](https://www.amazon.com/-/es/Robert-Love/dp/1449339530)  |  Descriptions of the system calls and library functions that you need in order to master the craft of system programming |
+| [The Linux Programming Interface](https://www.amazon.com/-/es/Michael-Kerrisk/dp/1593272200)  |  Descriptions of the system calls and library functions that you need in order to master the craft of system programming |
 
 <div align="center">
         <h1>Courses</h1>
