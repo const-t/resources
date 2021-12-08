@@ -42,17 +42,17 @@
 | [Practical C Programming](https://www.amazon.com/Essential-Device-Drivers-Sreekrishnan-Venkateswaran/dp/0132396556) | No-nonsense, practical approach to learn C       |
 | [Expert C Programming: Deep C Secrets ](https://www.amazon.com/-/es/Peter-van-Linden/dp/0131774298)  | C advanced tips and tricks |
 
-
 | Title (Kernel Books)               | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Linux Kernel Development](https://www.reddit.com/r/kernel/)  | Good introduction to Linux kernel development                   |
 | [Linux Device Drivers](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)    | Great book for getting started with Linux device drivers        |
 | [Essential Linux Device Drivers](https://www.amazon.com/Essential-Device-Drivers-Sreekrishnan-Venkateswaran/dp/0132396556) | Introduction to driver development for major subsystems         |
 | [Professional Linux Kernel Architecture ](https://www.amazon.com/-/es/Wolfgang-Mauerer/dp/0470343435)  | Introduction to the architecture, concepts and algorithms of the Linux kernel |
-| [Understanding the Linux Kernel](https://www.amazon.com/-/es/Daniel-P-Bovet/dp/8184040830)  | Guided tour of the code that forms the core of all Linux operating systems |
 | [Linux Kernel in a Nutshell](https://www.amazon.com/Linux-Kernel-Nutshell-Desktop-Reference/dp/0596100795) | Overview of kernel configuration and building    |
-
-
+| [Linux System Programming](https://www.amazon.com/-/es/Daniel-P-Bovet/dp/8184040830)  | Guided tour of the code that forms the core of all Linux operating systems |
+| [How Linux Works](https://www.amazon.com/-/es/Brian-Ward/dp/1593275676)  | Learn system boots, how networking works, and what the kernel actually does |
+| [Linux System Programming](https://www.amazon.com/-/es/Robert-Love/dp/1449339530)  |  Linux system programming, a reference manual on Linux system calls, and an insider’s guide to writing smarter, faster code. |
+| [The Linux Programming Interface](https://www.amazon.com/-/es/Robert-Love/dp/1449339530)  |  Descriptions of the system calls and library functions that you need in order to master the craft of system programming |
 
 <div align="center">
         <h1>Courses</h1>
