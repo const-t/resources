@@ -37,7 +37,7 @@
 
 | Title                               | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [Linux Kernel Development](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)  | Good introduction to Linux kernel development                   |
+| [Linux Kernel Development](https://www.reddit.com/r/kernel/)  | Good introduction to Linux kernel development                   |
 | [Linux Device Drivers](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)    | Great book for getting started with Linux device drivers        |
 | [Essential Linux Device Drivers](https://www.amazon.com/Essential-Device-Drivers-Sreekrishnan-Venkateswaran/dp/0132396556) | Introduction to driver development for major subsystems         |
 | [Professional Linux Kernel Architecture ](https://www.amazon.com/-/es/Wolfgang-Mauerer/dp/0470343435)  | Introduction to the architecture, concepts and algorithms of the Linux kernel |
@@ -72,6 +72,11 @@
 <div align="center">
         <h1>Community</h1>
 </div>
+
+| Title                               | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [r/Kernel](https://www.reddit.com/r/kernel/)  | A moderated community dedicated to technical discussion about the Linux kernel.                  |
+| [r/C_Programming](https://www.reddit.com/r/C_Programming/)    | The subreddit for the C programming language   |
 
 <div align="center">
         <h1>Plataforms</h1>
