@@ -29,6 +29,32 @@
       <td align="center"><a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgVvmCmKP-iLNIBdSKqa_w50er81_DrqL9l1H2z7uZ-YOuHK2oWmzt6Zxun_qTyWOVg4&usqp=CAU" width="70px;" height="75px;" alt=""><br><b>Platforms</b></a></td>
   </tr>
 </div>
+</table>
+
+<div align="center">
+        <h1>Books</h1>
+</div>
+<div align="center">
+        <h1>Courses</h1>
+</div>
+<div align="center">
+        <h1>Articles</h1>
+</div>
+<div align="center">
+        <h1>Wiki/Docs</h1>
+</div>
+<div align="center">
+        <h1>Events</h1>
+</div>
+<div align="center">
+        <h1>Channels</h1>
+</div>
+<div align="center">
+        <h1>Community</h1>
+</div>
+<div align="center">
+        <h1>Plataforms</h1>
+</div>
 
 
 
