@@ -55,6 +55,14 @@
 <div align="center">
         <h1>Wiki/Docs</h1>
 </div>
+
+| Title                               | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Kernel](https://www.kernel.org/doc/html/latest/process/development-process.html)  | A guide to the Kernel Development Process           |
+| [Elinux](https://www.amazon.com/-/es/Jonathan-Corbet/dp/0596005903)    | Wiki about developing and using Linux on embedded systems   |
+| [TLDP](https://www.amazon.com/Essential-Device-Drivers-Sreekrishnan-Venkateswaran/dp/0132396556) | Documentation for many aspects of Linux |
+
+
 <div align="center">
         <h1>Events</h1>
 </div>
@@ -75,6 +83,3 @@
 | [Linux Foundation ](https://www.linuxfoundation.org/)  | Linux foundation official site                                         |
 | [Linux(org)](https://www.linux.org/)                   | An excellent starting place for all things linux                       | 
 | [Linux(com)](https://www.linux.com/)                   |  Linux community portal sponsored by the Linux Foundation              |
-
-
-
