@@ -23,10 +23,10 @@
       <td align="center"><a href=""><img src="https://image.flaticon.com/icons/png/512/42/42972.png" width="70px;" height="75px;" alt=""><br><b>Courses</b></a></td>
       <td align="center"><a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/OOjs_UI_icon_articles-ltr.svg/1024px-OOjs_UI_icon_articles-ltr.svg.png" width="70px;" height="75px;" alt=""><br><b>Articles</b></a></td>
             <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/2991/2991106.png" width="70px;" height="75px;" alt=""><br><b>Wiki/Docs</b></a></td>
-      <td align="center"><a href=""><img src="https://rdihub.b-cdn.net/wp-content/uploads/2020/01/104-1044961_calendar-icon-png-date-events-icon-white-png.png" width="70px;" height="75px;" alt="https://static.thenounproject.com/png/2161804-200.png"><br><b>Events</b></a></td>
-      <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/152/152810.png" width="70px;" height="75px;" alt=""><br><b>Channels</b></a></td>
+      <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/152/152810.png" width="70px;" height="75px;" alt=""><br><b>Videos</b></a></td>
       <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/1384/1384019.png" width="70px;" height="75px;" alt=""><br><b>Community</b></a></td>
       <td align="center"><a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgVvmCmKP-iLNIBdSKqa_w50er81_DrqL9l1H2z7uZ-YOuHK2oWmzt6Zxun_qTyWOVg4&usqp=CAU" width="70px;" height="75px;" alt=""><br><b>Platforms</b></a></td>
+      <td align="center"><a href=""><img src="https://uxwing.com/wp-content/themes/uxwing/download/31-location-travel-map/flag.png" width="70px;" height="75px;" alt=""><br><b>Others</b></a></td>
   </tr>
 </div>
 </table>
@@ -70,13 +70,15 @@
 | [Elinux](https://elinux.org/Main_Page)    | Wiki about developing and using Linux on embedded systems   |
 | [TLDP](https://tldp.org/) | Documentation for many aspects of Linux |
 
+<div align="center">
+        <h1>Videos</h1>
+</div>
 
-<div align="center">
-        <h1>Events</h1>
-</div>
-<div align="center">
-        <h1>Channels</h1>
-</div>
+| Title                               | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Git Merge 2016](https://www.youtube.com/watch?v=vyenmLqJQjs)  | Linux Kernel Development Explanied by Greg Kroah-Hartman |
+
+
 <div align="center">
         <h1>Community</h1>
 </div>
@@ -96,3 +98,13 @@
 | [Linux Foundation ](https://www.linuxfoundation.org/)  | Linux foundation official site                                         |
 | [Linux(org)](https://www.linux.org/)                   |  An excellent starting place for all things linux                      | 
 | [Linux(com)](https://www.linux.com/)                   |  Linux community portal sponsored by the Linux Foundation              |
+
+<div align="center">
+        <h1>Others</h1>
+</div>
+
+| Title                               | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [The Eudyptula Challenge](http://eudyptula-challenge.org/)        | A series of programming exercises for the Linux kernel |
+| [Linux insides](https://0xax.gitbooks.io/linux-insides/content/)  |  A little bit about a linux kernel               |
+
