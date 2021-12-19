@@ -20,13 +20,13 @@
 <table>
   <tr>
       <td align="center"><a href="https://github.com/ezvrtgs/resources#books"><img src="https://cdn2.iconfinder.com/data/icons/education-378/96/Book-512.png" width="70px;" height="75px;" alt=""><br><b>Books</b></a></td>
-      <td align="center"><a href=""><img src="https://image.flaticon.com/icons/png/512/42/42972.png" width="70px;" height="75px;" alt=""><br><b>Courses</b></a></td>
-      <td align="center"><a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/OOjs_UI_icon_articles-ltr.svg/1024px-OOjs_UI_icon_articles-ltr.svg.png" width="70px;" height="75px;" alt=""><br><b>Articles</b></a></td>
-            <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/2991/2991106.png" width="70px;" height="75px;" alt=""><br><b>Wiki/Docs</b></a></td>
-      <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/152/152810.png" width="70px;" height="75px;" alt=""><br><b>Videos</b></a></td>
-      <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/1384/1384019.png" width="70px;" height="75px;" alt=""><br><b>Community</b></a></td>
-      <td align="center"><a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgVvmCmKP-iLNIBdSKqa_w50er81_DrqL9l1H2z7uZ-YOuHK2oWmzt6Zxun_qTyWOVg4&usqp=CAU" width="70px;" height="75px;" alt=""><br><b>Platforms</b></a></td>
-      <td align="center"><a href=""><img src="https://uxwing.com/wp-content/themes/uxwing/download/31-location-travel-map/flag.png" width="70px;" height="75px;" alt=""><br><b>Others</b></a></td>
+      <td align="center"><a href="https://github.com/ezvrtgs/resources#courses"><img src="https://image.flaticon.com/icons/png/512/42/42972.png" width="70px;" height="75px;" alt=""><br><b>Courses</b></a></td>
+      <td align="center"><a href="https://github.com/ezvrtgs/resources#articles"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/OOjs_UI_icon_articles-ltr.svg/1024px-OOjs_UI_icon_articles-ltr.svg.png" width="70px;" height="75px;" alt=""><br><b>Articles</b></a></td>
+            <td align="center"><a href="https://github.com/ezvrtgs/resources#wikidocs"><img src="https://cdn-icons-png.flaticon.com/512/2991/2991106.png" width="70px;" height="75px;" alt=""><br><b>Wiki/Docs</b></a></td>
+      <td align="center"><a href="https://github.com/ezvrtgs/resources#wikidocs"><img src="https://cdn-icons-png.flaticon.com/512/152/152810.png" width="70px;" height="75px;" alt=""><br><b>Videos</b></a></td>
+      <td align="center"><a href="https://github.com/ezvrtgs/resources#community"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384019.png" width="70px;" height="75px;" alt=""><br><b>Community</b></a></td>
+      <td align="center"><a href="https://github.com/ezvrtgs/resources#plataforms"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgVvmCmKP-iLNIBdSKqa_w50er81_DrqL9l1H2z7uZ-YOuHK2oWmzt6Zxun_qTyWOVg4&usqp=CAU" width="70px;" height="75px;" alt=""><br><b>Platforms</b></a></td>
+      <td align="center"><a href="https://github.com/ezvrtgs/resources#others"><img src="https://uxwing.com/wp-content/themes/uxwing/download/31-location-travel-map/flag.png" width="70px;" height="75px;" alt=""><br><b>Others</b></a></td>
   </tr>
 </div>
 </table>
